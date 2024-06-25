@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://legibraste.github.io/sitemap
+Sitemap: https://legibraste.github.io/app/sitemap
+Sitemap: https://legibraste.github.io/assets/sitemap
+Sitemap: https://legibraste.github.io/css/sitemap
+Sitemap: https://legibraste.github.io/includes/sitemap
+Sitemap: https://legibraste.github.io/item/sitemap
+Sitemap: https://legibraste.github.io/src/sitemap
